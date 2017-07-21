@@ -36,3 +36,6 @@ Necessary Software Tools to install before working with CRISPRpred:
 
 isGPT tool is developed by Md. Khaledur Rahman.
 If you need any help, please contact: khaled.cse.07@gmail.com
+
+Credits:
+M. Saifur Rahman and M. Sohel Rahman
